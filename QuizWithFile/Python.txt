@@ -1,0 +1,10 @@
+Q. Which of the following is the correct way to create a dictionary in Python?&&&&A) d = {1: "apple", 2: "banana"}&&&&B) d = (1: "apple", 2: "banana")&&&&C) d = [1: "apple", 2: "banana"]&&&&D) d = <1: "apple", 2: "banana">&&&&A) d = {1: "apple", 2: "banana"}
+Q. Which of the following statements will cause an error in Python?&&&&A) x = 10&&&&B) y = "Hello"&&&&C) z = [1, 2, 3]&&&&D) if x = 10:&&&&D) if x = 10:
+Q. What does the len() function do in Python?&&&&A) Returns the last element of an object&&&&B) Returns the number of characters in a string&&&&C) Returns the length of an object&&&&D) Returns the sum of elements in a list&&&&C) Returns the length of an object
+Q. Which of the following is NOT a valid way to handle exceptions in Python?&&&&A) try...except&&&&B) try...finally&&&&C) catch...finally&&&&D) try...except...else&&&&C) catch...finally
+Q. What is the purpose of the self keyword in Python?&&&&A) It is used to refer to the class itself&&&&B) It is used to refer to the instance of the class&&&&C) It is used to store the current function result&&&&D) It is used to call static methods&&&&B) It is used to refer to the instance of the class
+Q. Which of the following statements is used to terminate a loop in Python?&&&&A) break&&&&B) exit&&&&C) continue&&&&D) terminate&&&&A) break
+Q. Which of the following Python data types is immutable?&&&&A) List&&&&B) Set&&&&C) Dictionary&&&&D) Tuple&&&&D) Tuple
+Q. What does the range() function return in Python?&&&&A) A list of numbers&&&&B) A sequence of numbers&&&&C) A generator object&&&&D) A dictionary&&&&B) A sequence of numbers
+Q. Which of the following is used to define a function in Python?&&&&A) function myFunction():&&&&B) def myFunction():&&&&C) func myFunction():&&&&D) create myFunction():&&&&B) def myFunction():
+Q. Which of the following methods can be used to add an element to a set in Python?&&&&A) add()&&&&B) insert()&&&&C) append()&&&&D) extend()&&&&A) add()
